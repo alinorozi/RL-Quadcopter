@@ -10,7 +10,7 @@ In this project, you will design an agent to fly a quadcopter, and then train it
 
 ```
 git clone https://github.com/alinorozi/RL-Quadcopter.git
-cd RL-Quadcopter-2
+cd RL-Quadcopter
 ```
 
 2. Create and activate a new environment.
