@@ -2,7 +2,7 @@
 
 *Teach a Quadcopter How to Fly!*
 
-In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
+In this project, I have designed an agent to fly a quadcopter, and then trained it using a reinforcement learning algorithm of choice! 
 
 ## Project Instructions
 
@@ -33,3 +33,5 @@ jupyter notebook Quadcopter_Project.ipynb
 5. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
 
 6. You will likely need to install more pip packages to complete this project.  Please curate the list of packages needed to run your project in the `requirements.txt` file in the repository.
+
+
